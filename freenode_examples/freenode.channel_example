@@ -1,0 +1,117 @@
+:*.freenode.net NOTICE * :*** Looking up your ident...
+:*.freenode.net NOTICE * :*** Looking up your hostname...
+:*.freenode.net NOTICE * :*** Could not resolve your hostname: Nameserver failure; using your IP address (62.210.33.205) instead.
+PING :DFLeOx~KD\
+:*.freenode.net NOTICE bbaatar1 :*** Ident lookup timed out, using ~bbaatar1 instead.
+:*.freenode.net 001 bbaatar1 :Welcome to the freenode IRC Network bbaatar1!~bbaatar1@62.210.33.205
+:*.freenode.net 002 bbaatar1 :Your host is *.freenode.net, running version InspIRCd-3
+:*.freenode.net 003 bbaatar1 :This server was created 08:12:31 Jul 07 2022
+:*.freenode.net 004 bbaatar1 *.freenode.net InspIRCd-3 BDHILRSTWcdghikorswxz ABCDEFIJKLMNOPQRSTUWXYZbcdefhijklmnoprstuvwz :BEFIJLWXYZbdefhjklovw
+:*.freenode.net 005 bbaatar1 ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbew,k,BEFJLWdfjl,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+:*.freenode.net 005 bbaatar1 EXTBAN=,ACNOQRSTUacjmnpruwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,w:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=freenode :are supported by this server
+:*.freenode.net 005 bbaatar1 NICKLEN=30 PREFIX=(Yohv)!@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BDHILRSTWcdghikorwxz VBANLIST :are supported by this server
+:*.freenode.net 005 bbaatar1 VLIST=b WATCH=32 WHOX :are supported by this server
+:*.freenode.net 251 bbaatar1 :There are 18 users and 9437 invisible on 9 servers
+:*.freenode.net 252 bbaatar1 5 :operator(s) online
+:*.freenode.net 253 bbaatar1 11 :unknown connections
+:*.freenode.net 254 bbaatar1 13127 :channels formed
+:*.freenode.net 255 bbaatar1 :I have 4166 clients and 1 servers
+:*.freenode.net 265 bbaatar1 :Current local users: 4166  Max: 5325
+:*.freenode.net 266 bbaatar1 :Current global users: 9455  Max: 10575
+:*.freenode.net 375 bbaatar1 :*.freenode.net message of the day
+:*.freenode.net 372 bbaatar1 :  Hello, World!
+:*.freenode.net 372 bbaatar1 : 
+:*.freenode.net 372 bbaatar1 :  Welcome to the
+:*.freenode.net 372 bbaatar1 :          __                               _
+:*.freenode.net 372 bbaatar1 :         / _|_ __ ___  ___ _ __   ___   __| | ___
+:*.freenode.net 372 bbaatar1 :        | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \
+:*.freenode.net 372 bbaatar1 :        |  _| | |  __/  __/ | | | (_) | (_| |  __/
+:*.freenode.net 372 bbaatar1 :        |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|
+:*.freenode.net 372 bbaatar1 :                                   AUTONOMOUS ZONE
+:*.freenode.net 372 bbaatar1 : 
+:*.freenode.net 372 bbaatar1 :  Connect to us on:
+:*.freenode.net 372 bbaatar1 : 
+:*.freenode.net 372 bbaatar1 :  Hostname: irc.freenode.net / chat.freenode.net
+:*.freenode.net 372 bbaatar1 :  Plaintext: 6660-6669
+:*.freenode.net 372 bbaatar1 :  TLS/SSL: 6697,7000,7070
+:*.freenode.net 372 bbaatar1 :  Webchat: https://webchat.freenode.net
+:*.freenode.net 372 bbaatar1 : 
+:*.freenode.net 372 bbaatar1 :  By connecting to freenode you indicate that you have read and accept our
+:*.freenode.net 372 bbaatar1 :  policies and guidelines as set out on https://freenode.net and agree to
+:*.freenode.net 372 bbaatar1 :  be scanned for an open proxy.
+:*.freenode.net 372 bbaatar1 : 
+:*.freenode.net 372 bbaatar1 :  If you are looking for assistance, please try:
+:*.freenode.net 372 bbaatar1 : 
+:*.freenode.net 372 bbaatar1 :  #help                    - Help with general IRC and Services.
+:*.freenode.net 372 bbaatar1 :  #chanhelp                - Help with channels and channel services.
+:*.freenode.net 372 bbaatar1 :  #IRC                     - Help with the IRC.com by freenode app.
+:*.freenode.net 372 bbaatar1 : 
+:*.freenode.net 372 bbaatar1 :  Checkout some of our communities and services:
+:*.freenode.net 372 bbaatar1 : 
+:*.freenode.net 372 bbaatar1 :  #freenode-bbs            - BBS [https://bbs.freenode.net/]
+:*.freenode.net 372 bbaatar1 :  #freenode-bbs-discussion - BBS Discussion
+:*.freenode.net 372 bbaatar1 :  #freenode-jobs           - Jobs [https://jobs.freenode.net/]
+:*.freenode.net 372 bbaatar1 :  #freenode                - Chat about freenode.
+:*.freenode.net 372 bbaatar1 :  #anonchan                - Chat anonymously.
+:*.freenode.net 372 bbaatar1 : 
+:*.freenode.net 372 bbaatar1 :  Type /join #<channel>
+:*.freenode.net 372 bbaatar1 : 
+:*.freenode.net 372 bbaatar1 :  Thank you for using freenode!
+:*.freenode.net 376 bbaatar1 :End of message of the day.
+:*.freenode.net 396 bbaatar1 freenode-1ae.s40.6vib9m.IP :is now your displayed host
+:bbaatar1!~bbaatar1@freenode-1ae.s40.6vib9m.IP MODE bbaatar1 :+wRix
+:*.freenode.net 475 bbaatar1 #chan1 :Cannot join channel (incorrect channel key)
+:*.freenode.net 475 bbaatar1 #chan1 :Cannot join channel (incorrect channel key)
+:bbaatar1!~bbaatar1@freenode-1ae.s40.6vib9m.IP JOIN :#chan_bbaatar
+:*.freenode.net 353 bbaatar1 = #chan_bbaatar :@bbaatar1
+:*.freenode.net 366 bbaatar1 #chan_bbaatar :End of /NAMES list.
+:*.freenode.net 421 bbaatar1 HI :Unknown command
+:bbaatar1!~bbaatar1@freenode-1ae.s40.6vib9m.IP JOIN :#chan_bb
+:*.freenode.net 353 bbaatar1 = #chan_bb :@bbaatar1
+:*.freenode.net 366 bbaatar1 #chan_bb :End of /NAMES list.
+:bbaatar1!~bbaatar1@freenode-1ae.s40.6vib9m.IP JOIN :#chan_bbb
+:*.freenode.net 353 bbaatar1 = #chan_bbb :@bbaatar1
+:*.freenode.net 366 bbaatar1 #chan_bbb :End of /NAMES list.
+:*.freenode.net 476 bbaatar1 &chan12_bbb :Invalid channel name
+:bbaatar1!~bbaatar1@freenode-1ae.s40.6vib9m.IP JOIN :#chan1bbb
+:*.freenode.net 353 bbaatar1 = #chan1bbb :@bbaatar1
+:*.freenode.net 366 bbaatar1 #chan1bbb :End of /NAMES list.
+:*.freenode.net 421 bbaatar1 HI :Unknown command
+PING :*.freenode.net
+:*.freenode.net 461 bbaatar1 PONG :Not enough parameters.
+:*.freenode.net 650 bbaatar1 PONG :<cookie> [<servername>]
+:*.freenode.net 475 bbaatar1 #chan1 :Cannot join channel (incorrect channel key)
+:bbaatar1!~bbaatar1@freenode-1ae.s40.6vib9m.IP JOIN :#chann12
+:*.freenode.net 353 bbaatar1 = #chann12 :@bbaatar1
+:*.freenode.net 366 bbaatar1 #chann12 :End of /NAMES list.
+:*.freenode.net 404 bbaatar1 #chan :You cannot send external messages to this channel whilst the +n (noextmsg) mode is set.
+:*.freenode.net 461 bbaatar1 PRIVMSG :Not enough parameters.
+:*.freenode.net 650 bbaatar1 PRIVMSG :<target>[,<target>]+ :<message>
+:*.freenode.net 421 bbaatar1 F :Unknown command
+:*.freenode.net 482 bbaatar1 #chan :You must have channel halfop access or above to unset channel mode n
+:*.freenode.net 421 bbaatar1 FADS :Unknown command
+:bbaatar2!~bbaatar2@freenode-1ae.s40.6vib9m.IP JOIN :#chann12
+:bbaatar2!~bbaatar2@freenode-1ae.s40.6vib9m.IP PRIVMSG #chann12 :Hey what's up!
+:bbaatar2!~bbaatar2@freenode-1ae.s40.6vib9m.IP PRIVMSG #chann12 :nice to send a mesasge
+:bbaatar3!~bbaatar3@freenode-1ae.s40.6vib9m.IP JOIN :#chann12
+:bbaatar3!~bbaatar3@freenode-1ae.s40.6vib9m.IP PRIVMSG #chann12 :Hey what's up!
+:bbaatar3!~bbaatar3@freenode-1ae.s40.6vib9m.IP PRIVMSG #chann12 :Hey what's up! COUCOU
+PING :*.freenode.net
+:bbaatar3!~bbaatar3@freenode-1ae.s40.6vib9m.IP QUIT :Connection closed
+:bbaatar2!~bbaatar2@freenode-1ae.s40.6vib9m.IP QUIT :Connection closed
+
+******join command params*******: #chan1
+channel names are:::::: #chan1
+Channel names: #chan1
+AddressSanitizer:DEADLYSIGNAL
+=================================================================
+==615468==ERROR: AddressSanitizer: SEGV on unknown address 0x000000000008 (pc 0x7fb685dc3414 bp 0x7ffe396b1530 sp 0x7ffe396b14f8 T0)
+==615468==The signal is caused by a READ memory access.
+==615468==Hint: address points to the zero page.
+    #0 0x7fb685dc3414 in std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::size() const (/lib/x86_64-linux-gnu/libstdc++.so.6+0x14c414)
+    #1 0x4daf55 in __gnu_cxx::__enable_if<__is_char<char>::__value, bool>::__type std::operator==<char>(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) /usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12/bits/basic_string.h:3586:37
+    #2 0x4f5dfe in JOIN[abi:cxx11](s_data*, Client*, s_msg&) /mnt/nfs/homes/bbaatar/work/Ft_irc/srcs/commands/JOIN.cpp:103:33
+    #3 0x4e1949 in parsing(s_data*, Client*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) /mnt/nfs/homes/bbaatar/work/Ft_irc/srcs/parsing.cpp:48:22
+    #4 0x4d174f in main /mnt/nfs/homes/bbaatar/work/Ft_irc/srcs/main.cpp:129:7
+    #5 0x7fb685971d8f in __libc_start_call_main csu/../sysdeps/nptl/libc_start_call_main.h:58:16
+    #6 0x7fb685971e3f in __libc_start_main csu/../csu/libc-start.c:392:3

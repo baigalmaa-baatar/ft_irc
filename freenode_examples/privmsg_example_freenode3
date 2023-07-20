@@ -1,0 +1,75 @@
+:*.freenode.net NOTICE * :*** Looking up your ident...
+:*.freenode.net NOTICE * :*** Looking up your hostname...
+PING :SmGlW\ilVu
+:*.freenode.net NOTICE baigalmaa1 :*** Could not resolve your hostname: Request timed out; using your IP address (62.210.33.225) instead.
+:*.freenode.net NOTICE baigalmaa1 :*** Ident lookup timed out, using ~baigalmaa instead.
+:*.freenode.net 001 baigalmaa1 :Welcome to the freenode IRC Network baigalmaa1!~baigalmaa@62.210.33.225
+:*.freenode.net 002 baigalmaa1 :Your host is *.freenode.net, running version InspIRCd-3
+:*.freenode.net 003 baigalmaa1 :This server was created 23:06:04 Apr 20 2022
+:*.freenode.net 004 baigalmaa1 *.freenode.net InspIRCd-3 BDHILRSTWcdghikorswxz ABCDEFIJKLMNOPQRSTUWXYZbcdefhijklmnoprstuvwz :BEFIJLWXYZbdefhjklovw
+:*.freenode.net 005 baigalmaa1 ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbew,k,BEFJLWdfjl,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+:*.freenode.net 005 baigalmaa1 EXTBAN=,ACNOQRSTUacjmnpruwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,w:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=freenode :are supported by this server
+:*.freenode.net 005 baigalmaa1 NICKLEN=30 PREFIX=(Yohv)!@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BDHILRSTWcdghikorwxz VBANLIST :are supported by this server
+:*.freenode.net 005 baigalmaa1 VLIST=b WATCH=32 WHOX :are supported by this server
+:*.freenode.net 251 baigalmaa1 :There are 18 users and 9521 invisible on 9 servers
+:*.freenode.net 252 baigalmaa1 5 :operator(s) online
+:*.freenode.net 253 baigalmaa1 15 :unknown connections
+:*.freenode.net 254 baigalmaa1 13275 :channels formed
+:*.freenode.net 255 baigalmaa1 :I have 2232 clients and 1 servers
+:*.freenode.net 265 baigalmaa1 :Current local users: 2232  Max: 4423
+:*.freenode.net 266 baigalmaa1 :Current global users: 9539  Max: 10916
+:*.freenode.net 375 baigalmaa1 :*.freenode.net message of the day
+:*.freenode.net 372 baigalmaa1 :  Hello, World!
+:*.freenode.net 372 baigalmaa1 : 
+:*.freenode.net 372 baigalmaa1 :  Welcome to the
+:*.freenode.net 372 baigalmaa1 :          __                               _
+:*.freenode.net 372 baigalmaa1 :         / _|_ __ ___  ___ _ __   ___   __| | ___
+:*.freenode.net 372 baigalmaa1 :        | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \
+:*.freenode.net 372 baigalmaa1 :        |  _| | |  __/  __/ | | | (_) | (_| |  __/
+:*.freenode.net 372 baigalmaa1 :        |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|
+:*.freenode.net 372 baigalmaa1 :                                   AUTONOMOUS ZONE
+:*.freenode.net 372 baigalmaa1 : 
+:*.freenode.net 372 baigalmaa1 :  Connect to us on:
+:*.freenode.net 372 baigalmaa1 : 
+:*.freenode.net 372 baigalmaa1 :  Hostname: irc.freenode.net / chat.freenode.net
+:*.freenode.net 372 baigalmaa1 :  Plaintext: 6660-6669
+:*.freenode.net 372 baigalmaa1 :  TLS/SSL: 6697,7000,7070
+:*.freenode.net 372 baigalmaa1 :  Webchat: https://webchat.freenode.net
+:*.freenode.net 372 baigalmaa1 : 
+:*.freenode.net 372 baigalmaa1 :  By connecting to freenode you indicate that you have read and accept our
+:*.freenode.net 372 baigalmaa1 :  policies and guidelines as set out on https://freenode.net and agree to
+:*.freenode.net 372 baigalmaa1 :  be scanned for an open proxy.
+:*.freenode.net 372 baigalmaa1 : 
+:*.freenode.net 372 baigalmaa1 :  If you are looking for assistance, please try:
+:*.freenode.net 372 baigalmaa1 : 
+:*.freenode.net 372 baigalmaa1 :  #help                    - Help with general IRC and Services.
+:*.freenode.net 372 baigalmaa1 :  #chanhelp                - Help with channels and channel services.
+:*.freenode.net 372 baigalmaa1 :  #IRC                     - Help with the IRC.com by freenode app.
+:*.freenode.net 372 baigalmaa1 : 
+:*.freenode.net 372 baigalmaa1 :  Checkout some of our communities and services:
+:*.freenode.net 372 baigalmaa1 : 
+:*.freenode.net 372 baigalmaa1 :  #freenode-bbs            - BBS [https://bbs.freenode.net/]
+:*.freenode.net 372 baigalmaa1 :  #freenode-bbs-discussion - BBS Discussion
+:*.freenode.net 372 baigalmaa1 :  #freenode-jobs           - Jobs [https://jobs.freenode.net/]
+:*.freenode.net 372 baigalmaa1 :  #freenode                - Chat about freenode.
+:*.freenode.net 372 baigalmaa1 :  #anonchan                - Chat anonymously.
+:*.freenode.net 372 baigalmaa1 : 
+:*.freenode.net 372 baigalmaa1 :  Type /join #<channel>
+:*.freenode.net 372 baigalmaa1 : 
+:*.freenode.net 372 baigalmaa1 :  Thank you for using freenode!
+:*.freenode.net 376 baigalmaa1 :End of message of the day.
+:*.freenode.net 396 baigalmaa1 freenode-jc9.s40.6vib9m.IP :is now your displayed host
+:baigalmaa1!~baigalmaa@freenode-jc9.s40.6vib9m.IP MODE baigalmaa1 :+wRix
+:baigalmaa1!~baigalmaa@freenode-jc9.s40.6vib9m.IP JOIN :#chan99
+:*.freenode.net 353 baigalmaa1 = #chan99 :baigalmaa1 @baigalmaa2
+:*.freenode.net 366 baigalmaa1 #chan99 :End of /NAMES list.
+:*.freenode.net 421 baigalmaa1 HI :Unknown command
+:*.freenode.net 421 baigalmaa1 MSG :Unknown command
+:*.freenode.net 401 baigalmaa1 baigalmaa2#chan99 :No such nick
+:*.freenode.net 403 baigalmaa1 #* :No such channel
+:baigalmaa2!~baigalmaa@freenode-jc9.s40.6vib9m.IP PRIVMSG #chan99 :coucou
+:*.freenode.net 403 baigalmaa1 #* :No such channel
+:*.freenode.net 401 baigalmaa1 *@* :No such nick
+:baigalmaa2!~baigalmaa@freenode-jc9.s40.6vib9m.IP QUIT :Ping timeout: 120 seconds
+PING :*.freenode.net
+ERROR :Closing link: (~baigalmaa@62.210.33.225) [Ping timeout: 120 seconds]

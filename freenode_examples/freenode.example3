@@ -1,0 +1,71 @@
+:*.freenode.net NOTICE * :*** Looking up your ident...
+:*.freenode.net NOTICE * :*** Looking up your hostname...
+:*.freenode.net NOTICE * :*** Could not resolve your hostname: Nameserver failure; using your IP address (62.210.34.16) instead.
+PING :up}WyvlBG@
+:*.freenode.net NOTICE mkhabou :*** Ident lookup timed out, using ~mkhabou instead.
+:*.freenode.net 001 mkhabou :Welcome to the freenode IRC Network mkhabou!~mkhabou@62.210.34.16
+:*.freenode.net 002 mkhabou :Your host is *.freenode.net, running version InspIRCd-3
+:*.freenode.net 003 mkhabou :This server was created 08:12:31 Jul 07 2022
+:*.freenode.net 004 mkhabou *.freenode.net InspIRCd-3 BDHILRSTWcdghikorswxz ABCDEFIJKLMNOPQRSTUWXYZbcdefhijklmnoprstuvwz :BEFIJLWXYZbdefhjklovw
+:*.freenode.net 005 mkhabou ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbew,k,BEFJLWdfjl,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+:*.freenode.net 005 mkhabou EXTBAN=,ACNOQRSTUacjmnpruwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,w:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=freenode :are supported by this server
+:*.freenode.net 005 mkhabou NICKLEN=30 PREFIX=(Yohv)!@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BDHILRSTWcdghikorwxz VBANLIST :are supported by this server
+:*.freenode.net 005 mkhabou VLIST=b WATCH=32 WHOX :are supported by this server
+:*.freenode.net 251 mkhabou :There are 17 users and 9575 invisible on 9 servers
+:*.freenode.net 252 mkhabou 5 :operator(s) online
+:*.freenode.net 253 mkhabou 18 :unknown connections
+:*.freenode.net 254 mkhabou 13217 :channels formed
+:*.freenode.net 255 mkhabou :I have 4265 clients and 1 servers
+:*.freenode.net 265 mkhabou :Current local users: 4265  Max: 5325
+:*.freenode.net 266 mkhabou :Current global users: 9592  Max: 10575
+:*.freenode.net 375 mkhabou :*.freenode.net message of the day
+:*.freenode.net 372 mkhabou :  Hello, World!
+:*.freenode.net 372 mkhabou : 
+:*.freenode.net 372 mkhabou :  Welcome to the
+:*.freenode.net 372 mkhabou :          __                               _
+:*.freenode.net 372 mkhabou :         / _|_ __ ___  ___ _ __   ___   __| | ___
+:*.freenode.net 372 mkhabou :        | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \
+:*.freenode.net 372 mkhabou :        |  _| | |  __/  __/ | | | (_) | (_| |  __/
+:*.freenode.net 372 mkhabou :        |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|
+:*.freenode.net 372 mkhabou :                                   AUTONOMOUS ZONE
+:*.freenode.net 372 mkhabou : 
+:*.freenode.net 372 mkhabou :  Connect to us on:
+:*.freenode.net 372 mkhabou : 
+:*.freenode.net 372 mkhabou :  Hostname: irc.freenode.net / chat.freenode.net
+:*.freenode.net 372 mkhabou :  Plaintext: 6660-6669
+:*.freenode.net 372 mkhabou :  TLS/SSL: 6697,7000,7070
+:*.freenode.net 372 mkhabou :  Webchat: https://webchat.freenode.net
+:*.freenode.net 372 mkhabou : 
+:*.freenode.net 372 mkhabou :  By connecting to freenode you indicate that you have read and accept our
+:*.freenode.net 372 mkhabou :  policies and guidelines as set out on https://freenode.net and agree to
+:*.freenode.net 372 mkhabou :  be scanned for an open proxy.
+:*.freenode.net 372 mkhabou : 
+:*.freenode.net 372 mkhabou :  If you are looking for assistance, please try:
+:*.freenode.net 372 mkhabou : 
+:*.freenode.net 372 mkhabou :  #help                    - Help with general IRC and Services.
+:*.freenode.net 372 mkhabou :  #chanhelp                - Help with channels and channel services.
+:*.freenode.net 372 mkhabou :  #IRC                     - Help with the IRC.com by freenode app.
+:*.freenode.net 372 mkhabou : 
+:*.freenode.net 372 mkhabou :  Checkout some of our communities and services:
+:*.freenode.net 372 mkhabou : 
+:*.freenode.net 372 mkhabou :  #freenode-bbs            - BBS [https://bbs.freenode.net/]
+:*.freenode.net 372 mkhabou :  #freenode-bbs-discussion - BBS Discussion
+:*.freenode.net 372 mkhabou :  #freenode-jobs           - Jobs [https://jobs.freenode.net/]
+:*.freenode.net 372 mkhabou :  #freenode                - Chat about freenode.
+:*.freenode.net 372 mkhabou :  #anonchan                - Chat anonymously.
+:*.freenode.net 372 mkhabou : 
+:*.freenode.net 372 mkhabou :  Type /join #<channel>
+:*.freenode.net 372 mkhabou : 
+:*.freenode.net 372 mkhabou :  Thank you for using freenode!
+:*.freenode.net 376 mkhabou :End of message of the day.
+:*.freenode.net 396 mkhabou freenode-ppj.tkf.6vib9m.IP :is now your displayed host
+:mkhabou!~mkhabou@freenode-ppj.tkf.6vib9m.IP MODE mkhabou :+wRix
+:*.freenode.net 421 mkhabou /JOIN :Unknown command
+:mkhabou!~mkhabou@freenode-ppj.tkf.6vib9m.IP JOIN :#abc
+:*.freenode.net 353 mkhabou = #abc :@mkhabou
+:*.freenode.net 366 mkhabou #abc :End of /NAMES list.
+:*.freenode.net 421 mkhabou HELLO :Unknown command
+:mkhabou1!~mkhabou1@freenode-ppj.tkf.6vib9m.IP JOIN :#abc
+PING :*.freenode.net
+:mkhabou1!~mkhabou1@freenode-ppj.tkf.6vib9m.IP PRIVMSG #abc :hello
+:mkhabou1!~mkhabou1@freenode-ppj.tkf.6vib9m.IP QUIT :Connection closed

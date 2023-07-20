@@ -1,0 +1,72 @@
+:*.freenode.net NOTICE * :*** Looking up your ident...
+:*.freenode.net NOTICE * :*** Looking up your hostname...
+:*.freenode.net NOTICE * :*** Could not resolve your hostname: Nameserver failure; using your IP address (62.210.33.205) instead.
+PING :|?SPQcB[]H
+:*.freenode.net NOTICE bbaatar2 :*** Ident lookup timed out, using ~bbaatar2 instead.
+:*.freenode.net 001 bbaatar2 :Welcome to the freenode IRC Network bbaatar2!~bbaatar2@62.210.33.205
+:*.freenode.net 002 bbaatar2 :Your host is *.freenode.net, running version InspIRCd-3
+:*.freenode.net 003 bbaatar2 :This server was created 08:12:31 Jul 07 2022
+:*.freenode.net 004 bbaatar2 *.freenode.net InspIRCd-3 BDHILRSTWcdghikorswxz ABCDEFIJKLMNOPQRSTUWXYZbcdefhijklmnoprstuvwz :BEFIJLWXYZbdefhjklovw
+:*.freenode.net 005 bbaatar2 ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbew,k,BEFJLWdfjl,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+:*.freenode.net 005 bbaatar2 EXTBAN=,ACNOQRSTUacjmnpruwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,w:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=freenode :are supported by this server
+:*.freenode.net 005 bbaatar2 NICKLEN=30 PREFIX=(Yohv)!@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BDHILRSTWcdghikorwxz VBANLIST :are supported by this server
+:*.freenode.net 005 bbaatar2 VLIST=b WATCH=32 WHOX :are supported by this server
+:*.freenode.net 251 bbaatar2 :There are 18 users and 9448 invisible on 9 servers
+:*.freenode.net 252 bbaatar2 5 :operator(s) online
+:*.freenode.net 253 bbaatar2 10 :unknown connections
+:*.freenode.net 254 bbaatar2 13138 :channels formed
+:*.freenode.net 255 bbaatar2 :I have 4166 clients and 1 servers
+:*.freenode.net 265 bbaatar2 :Current local users: 4166  Max: 5325
+:*.freenode.net 266 bbaatar2 :Current global users: 9466  Max: 10575
+:*.freenode.net 375 bbaatar2 :*.freenode.net message of the day
+:*.freenode.net 372 bbaatar2 :  Hello, World!
+:*.freenode.net 372 bbaatar2 : 
+:*.freenode.net 372 bbaatar2 :  Welcome to the
+:*.freenode.net 372 bbaatar2 :          __                               _
+:*.freenode.net 372 bbaatar2 :         / _|_ __ ___  ___ _ __   ___   __| | ___
+:*.freenode.net 372 bbaatar2 :        | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \
+:*.freenode.net 372 bbaatar2 :        |  _| | |  __/  __/ | | | (_) | (_| |  __/
+:*.freenode.net 372 bbaatar2 :        |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|
+:*.freenode.net 372 bbaatar2 :                                   AUTONOMOUS ZONE
+:*.freenode.net 372 bbaatar2 : 
+:*.freenode.net 372 bbaatar2 :  Connect to us on:
+:*.freenode.net 372 bbaatar2 : 
+:*.freenode.net 372 bbaatar2 :  Hostname: irc.freenode.net / chat.freenode.net
+:*.freenode.net 372 bbaatar2 :  Plaintext: 6660-6669
+:*.freenode.net 372 bbaatar2 :  TLS/SSL: 6697,7000,7070
+:*.freenode.net 372 bbaatar2 :  Webchat: https://webchat.freenode.net
+:*.freenode.net 372 bbaatar2 : 
+:*.freenode.net 372 bbaatar2 :  By connecting to freenode you indicate that you have read and accept our
+:*.freenode.net 372 bbaatar2 :  policies and guidelines as set out on https://freenode.net and agree to
+:*.freenode.net 372 bbaatar2 :  be scanned for an open proxy.
+:*.freenode.net 372 bbaatar2 : 
+:*.freenode.net 372 bbaatar2 :  If you are looking for assistance, please try:
+:*.freenode.net 372 bbaatar2 : 
+:*.freenode.net 372 bbaatar2 :  #help                    - Help with general IRC and Services.
+:*.freenode.net 372 bbaatar2 :  #chanhelp                - Help with channels and channel services.
+:*.freenode.net 372 bbaatar2 :  #IRC                     - Help with the IRC.com by freenode app.
+:*.freenode.net 372 bbaatar2 : 
+:*.freenode.net 372 bbaatar2 :  Checkout some of our communities and services:
+:*.freenode.net 372 bbaatar2 : 
+:*.freenode.net 372 bbaatar2 :  #freenode-bbs            - BBS [https://bbs.freenode.net/]
+:*.freenode.net 372 bbaatar2 :  #freenode-bbs-discussion - BBS Discussion
+:*.freenode.net 372 bbaatar2 :  #freenode-jobs           - Jobs [https://jobs.freenode.net/]
+:*.freenode.net 372 bbaatar2 :  #freenode                - Chat about freenode.
+:*.freenode.net 372 bbaatar2 :  #anonchan                - Chat anonymously.
+:*.freenode.net 372 bbaatar2 : 
+:*.freenode.net 372 bbaatar2 :  Type /join #<channel>
+:*.freenode.net 372 bbaatar2 : 
+:*.freenode.net 372 bbaatar2 :  Thank you for using freenode!
+:*.freenode.net 376 bbaatar2 :End of message of the day.
+:*.freenode.net 396 bbaatar2 freenode-1ae.s40.6vib9m.IP :is now your displayed host
+:bbaatar2!~bbaatar2@freenode-1ae.s40.6vib9m.IP MODE bbaatar2 :+wRix
+:bbaatar2!~bbaatar2@freenode-1ae.s40.6vib9m.IP JOIN :#chann12
+:*.freenode.net 353 bbaatar2 = #chann12 :@bbaatar1 bbaatar2
+:*.freenode.net 366 bbaatar2 #chann12 :End of /NAMES list.
+:*.freenode.net 421 bbaatar2 FAS :Unknown command
+:*.freenode.net 421 bbaatar2 HI :Unknown command
+:bbaatar1!~bbaatar1@freenode-1ae.s40.6vib9m.IP PRIVMSG #chann12 :Hey what's up! hello to you too
+:bbaatar3!~bbaatar3@freenode-1ae.s40.6vib9m.IP JOIN :#chann12
+:bbaatar3!~bbaatar3@freenode-1ae.s40.6vib9m.IP PRIVMSG #chann12 :Hey what's up!
+:bbaatar3!~bbaatar3@freenode-1ae.s40.6vib9m.IP PRIVMSG #chann12 :Hey what's up! COUCOU
+:bbaatar3!~bbaatar3@freenode-1ae.s40.6vib9m.IP QUIT :Connection closed

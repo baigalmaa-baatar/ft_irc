@@ -1,0 +1,40 @@
+In order to connect to some irc server with nc :
+
+pass pwd
+nick mk
+user d d d d
+
+1/
+NICK mkhabou
+USER mkhabou mkhabou 62.210.34.229 :Marwa KHABOU
+
+NICK baigalmaa1
+USER baigalmaa1 bbaatar 62.210.33.8 :Baigalmaa BAATAR
+
+2/
+PONG 
+
+3/
+JOIN #abc
+
+PRIVMSG #abc :hello
+...
+
+PRIVMSG #chan1 :Hey what's up! COUCOU
+PRIVMSG bbaatar3 :this is private message!
+
+MODE bbaatar2 +r
+
+MODE bbaatar3 +r
+
+MODE bbaatar2 +i
+
+MODE #chan1 +O bbaatar2
+
+MODE #chan1 +o bbaatar3
+
+JOIN !chan99
+
+JOIN &chan98
+
+JOIN +chan98
